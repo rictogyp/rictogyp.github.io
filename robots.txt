@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rictogyp.github.io/sitemap
+Sitemap: https://rictogyp.github.io/app/sitemap
+Sitemap: https://rictogyp.github.io/assets/sitemap
+Sitemap: https://rictogyp.github.io/css/sitemap
+Sitemap: https://rictogyp.github.io/includes/sitemap
+Sitemap: https://rictogyp.github.io/item/sitemap
+Sitemap: https://rictogyp.github.io/src/sitemap
